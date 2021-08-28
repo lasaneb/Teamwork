@@ -1,1 +1,4 @@
 # Teamwork
+![jpm] (JPMstablecoin.jpg)
+
+
